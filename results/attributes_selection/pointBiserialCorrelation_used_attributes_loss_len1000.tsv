@@ -1,0 +1,9 @@
+PointBiserialCoefficient	AttributeName
+0.5400231538536986	CGscore_indel_gene_count_2
+0.38597338329099684	gene_count
+-0.3670313839631108	min_D_Frequency_3
+0.32696701604550654	morbidGene_count
+0.32283325396965395	length
+0.2917290419911564	ExAC_zScore_pLI
+0.23672358720624959	ExAC_zScore_indel
+-0.03588714528740529	HI_DDDperc_haploinsufficient_gene_count

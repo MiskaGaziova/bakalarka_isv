@@ -1,0 +1,7 @@
+RFE_importance	Attribute	feature_importance
+1	gene_count	0.5885243
+3	ExAC_zScore_pLI	0.13684088
+2	morbidGene_count	0.13012443
+4	length	0.07000451
+5	ExAC_zScore_indel	0.038138993
+6	min_D_Frequency_3	0.036366943
